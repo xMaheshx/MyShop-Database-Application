@@ -1,0 +1,32 @@
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.exe
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.pdb
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.xml
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.Home.resources
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.Resources.resources
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.vbproj.GenerateResource.Cache
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.exe
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.xml
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.pdb
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.exe.manifest
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.application
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.exe.manifest
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.application
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.LoginPanel.resources
+I:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.Items.resources
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.exe.manifest
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.application
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.exe
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.pdb
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\bin\Debug\ADBMS Project.xml
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.Home.resources
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.Items.resources
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.LoginPanel.resources
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.Resources.resources
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.Orders.resources
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS_Project.Suppliers.resources
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.vbproj.GenerateResource.Cache
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.exe.manifest
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.application
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.exe
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.xml
+G:\Dropbox\Developers\Windows\ADBMS Project\ADBMS Project\obj\Debug\ADBMS Project.pdb
